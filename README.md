@@ -60,6 +60,8 @@ The result of COIVD-19 Deaths (max death rate) & GPD per Capita:
 
 -	There was significant positive correlation between the death rate and GDP per capita
 
+![](/images/Correlation_between_max_death_rate_and_GDP.png)
+
 The main result:
 
 -	These results states that the developed countries are at higher risk of getting COVID-19 infection than developing countries
