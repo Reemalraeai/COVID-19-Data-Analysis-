@@ -6,6 +6,7 @@ Description of the Project
 Process of the Project
 
  1- Data Collection 
+ 
 Datasets:
 -	COVID19 dataset, published by John Hopkins University which consists of the cumulative number of confirmed cases around the world from 22-1-2020 to 30-4-2020.
 -	Worldwide happiness report datasets which consists of various life factors scored by people living in each country around the world.
