@@ -58,7 +58,7 @@ The result of COIVD-19 Confirmed Cases (max infection rate) & Worldwide Happines
 
 The result of COIVD-19 Deaths (max death rate) & GPD per Capita:
 
--	There was significant positive correlation between the death rate and GDP per capita
+-	There was a significant positive correlation between the death rate and GDP per capita (r =0.2598925070926983 with a P-value of P = 0.0017207018252792102)
 
 ![](/images/Correlation_between_max_death_rate_and_GDP.png)
 
