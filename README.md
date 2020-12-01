@@ -64,4 +64,4 @@ The result of COIVD-19 Deaths (max death rate) & GPD per Capita:
 
 The main result:
 
--	These results states that the developed countries are at higher risk of getting COVID-19 infection than developing countries
+-	These results state that the developed countries are at higher risk of getting COVID-19 infection than developing countries
