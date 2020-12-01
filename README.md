@@ -3,7 +3,8 @@ Description of the Project
 - The purpose of this project is to find if there is any relationship between the spread of the virus in a country and how happy people are, living in that country. 
 - This project is guided by a Coursera course called COVID19 Data Analysis Using Python (instructor: Ahmad Varasteh)
  
-Process of the Project 
+Process of the Project
+
  1- Data Collection 
 Datasets:
 -	COVID19 dataset, published by John Hopkins University which consists of the cumulative number of confirmed cases around the world from 22-1-2020 to 30-4-2020.
@@ -46,9 +47,15 @@ Datasets:
 -	Concluding the result of this analysis
 
 The Results of the Project
+
 The result of COIVD-19 Confirmed Cases (max infection rate) & Worldwide Happiness Report (life factors):
+
 -	There was a significant positive correlation between the max infection rate (dependent variable) & the GDP of a country (independent variable) (r = 0.2598925070926983 with a P-value of P = 0.0017207018252792102)
+
 The result of COIVD-19 Deaths (max death rate) & GPD per Capita:
+
 -	There was significant positive correlation between the death rate and GDP per capita
+
 The main result:
+
 -	These results states that the developed countries are at higher risk of getting COVID-19 infection than developing countries
