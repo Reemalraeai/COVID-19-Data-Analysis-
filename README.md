@@ -51,14 +51,14 @@ The Results of the Project
 
 The result of COIVD-19 Confirmed Cases (max infection rate) & Worldwide Happiness Report (life factors):
 
--	There was a significant positive correlation between the max infection rate (dependent variable) & the GDP of a country (independent variable) (r = 0.2598925070926983 with a P-value of P = 0.0017207018252792102)
+-	There was a significant positive correlation between the max infection rate (dependent variable) & the GDP of a country (independent variable) (Pearson Correlation Coefficient = 0.2598925070926983 with a P-value of P = 0.0017207018252792102)
 
 
 ![](/images/Correlation_between_max_infection_rate_and_GDP.png)
 
 The result of COIVD-19 Deaths (max death rate) & GPD per Capita:
 
--	There was a significant positive correlation between the death rate and GDP per capita (r =0.2598925070926983 with a P-value of P = 0.0017207018252792102)
+-	There was a significant positive correlation between the death rate and GDP per capita (Pearson Correlation Coefficient =0.2598925070926983 with a P-value of P = 0.0017207018252792102)
 
 ![](/images/Correlation_between_max_death_rate_and_GDP.png)
 
