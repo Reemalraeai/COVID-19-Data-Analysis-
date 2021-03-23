@@ -52,13 +52,13 @@ Pearson Correlation Coefficient = 0.5877934046059671, P-value = 1.18396436176097
 Significant moderate positive correlation
 
 
-![](/images/Correlation between max infection rate and Social Support.png)
+![](/images/Correlation_between_max_infection_rate_and_Social_Support.png)
 
 Pearson Correlation Coefficient = 0.410553554663816, P-value = 3.528589753399903e-07
 Significant moderate positive correlation
 
 
-![](/images/Correlation between max infection rate and Healthy life expectancy.png)
+![](/images/Correlation_between_max_infection_rate_and_Healthy_life_expectancy.png)
 
 Pearson Correlation Coefficient = 0.5456787753328285, P-value = 1.8185734429629742e-12
 Significant moderate positive correlation
