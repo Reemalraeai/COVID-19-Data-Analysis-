@@ -66,4 +66,4 @@ Significant moderate positive correlation
 
 
 The main result:
--	Happier countries tend to be at higher risk of getting COVID-19 infection.
+-	Happier countries tend to be at higher risk of getting COVID-19 infection
