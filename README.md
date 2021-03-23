@@ -1,5 +1,6 @@
 
-# COVID-19-Data-Analysis-
+# COVID-19-&-Happiness-Indicators-Data-Analysis-in-Python 
+
 Description of the Project
 - The purpose of this project is to find if there is any relationship between the spread of the virus in a country and how happy people are living in that country. 
 - This project is guided by a Coursera course called COVID19 Data Analysis Using Python (instructor: Ahmad Varasteh)
@@ -49,18 +50,21 @@ The result of COIVD-19 Confirmed Cases (max infection rate) & Worldwide Happines
 ![](/images/Correlation_between_max_infection_rate_and_GDP.png)
 
 Pearson Correlation Coefficient = 0.5877934046059671, P-value = 1.1839643617609705e-14
+
 Significant moderate positive correlation
 
 
 ![](/images/Correlation_between_max_infection_rate_and_Social_Support.png)
 
 Pearson Correlation Coefficient = 0.410553554663816, P-value = 3.528589753399903e-07
+
 Significant moderate positive correlation
 
 
 ![](/images/Correlation_between_max_infection_rate_and_Healthy_life_expectancy.png)
 
 Pearson Correlation Coefficient = 0.5456787753328285, P-value = 1.8185734429629742e-12
+
 Significant moderate positive correlation
 
 
