@@ -41,19 +41,28 @@ Datasets:
 The Results of the Project
 
 The result of COIVD-19 Confirmed Cases (max infection rate) & Worldwide Happiness Report (life factors):
--	The max infection rate of a country positively correlated the GDP, the Social support, the health life expectancy (moderate correlation) and the freedom of a choice of that country.
+-	The max infection rate of a country positively correlated the GDP, the Social support, the healthly life expectancy (moderate correlation) and the freedom of a choice of that country.
 -	Hence, we can state that happier countries tend to be at higher risk of getting COVID-19 infection.
 -	However, this could be biased since happier countries tend to be developed countries and they are more prone to COVID-19 than developing countries 
 
 
-
 ![](/images/Correlation_between_max_infection_rate_and_GDP.png)
 
-The result of COIVD-19 Deaths (max death rate) & GPD per Capita:
+Pearson Correlation Coefficient = 0.5877934046059671, P-value = 1.1839643617609705e-14
+Significant moderate positive correlation
 
--	There was a significant positive correlation between the death rate and GDP per capita (Pearson Correlation Coefficient =0.2598925070926983 with a P-value of P = 0.0017207018252792102)
 
-![](/images/Correlation_between_max_death_rate_and_GDP.png)
+![](/images/Correlation between max infection rate and Social Support.png)
+
+Pearson Correlation Coefficient = 0.410553554663816, P-value = 3.528589753399903e-07
+Significant moderate positive correlation
+
+
+![](/images/Correlation between max infection rate and Healthy life expectancy.png)
+
+Pearson Correlation Coefficient = 0.5456787753328285, P-value = 1.8185734429629742e-12
+Significant moderate positive correlation
+
 
 
 The main result:
