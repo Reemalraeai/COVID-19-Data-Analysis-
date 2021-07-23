@@ -1,5 +1,5 @@
 
-# COVID-19-&-Happiness-Indicators-Data-Analysis-in-Python 
+# COVID-19 & Happiness Indicators Data Analysis in Python 
 
 Description of the Project
 - The purpose of this project is to find if there is any relationship between the spread of the virus in a country and how happy people are living in that country. 
